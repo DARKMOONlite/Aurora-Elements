@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Elf</name>
-		<update version="0.2.3">
+		<update version="0.1">
 			<file name="race-gorgon.xml" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/main/races/race-gorgon.xml" />
 		</update>
 	</info>
@@ -53,8 +53,8 @@
 			<set name="weight" modifier="1d4">90 lb.</set>
 		</setters>
 		<rules>
-			<stat name="dexterity" value="2" requirements="!ID_UA_PSK_GRANTS_ELF_SUBRACE,!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
-			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +2 (Elf)" supports="Custom Ability Score Increase 2" requirements="!ID_UA_PSK_GRANTS_ELF_SUBRACE,ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="wisdom" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="charisma" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
 			<stat name="innate speed" value="30" bonus="base" />
 			<grant type="Size" id="ID_SIZE_MEDIUM" />
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
@@ -88,11 +88,11 @@
             <description level="3">you know the Friends cantrip. you can cast the cause fear spell once per long rest. charisma or wisdom is your spellcasting ability for this spell.</description>
             <description level="5">you know the Friends cantrip. you can cast the cause fear & hold person spells once per long rest. charisma or wisdom is your spellcasting ability for this spell.</description>
 		</sheet>
-        <rules>
+        <!-- <rules>
             <grant type="Spell" id="ID_PHB_SPELL_FRIENDS" level="1" />
             <grant type="Spell" id="ID_PHB_SPELL_CAUSE_FEAR" level="3" />
             <grant type="Spell" id="ID_PHB_SPELL_HOLD_PERSON" level="5" />
-        </rules>
+        </rules> -->
 	</element>
 	<element name="Voices in your head" type="Racial Trait" source="dml" id="ID_RACIAL_TRAIT_VOICES">
 		<description>
