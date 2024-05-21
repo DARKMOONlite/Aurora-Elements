@@ -5,7 +5,7 @@
 		<description>some basic custom elements for creating characters for my dnd games</description>
 		<author url="https://github.com/DARKMOONlite">DARKMOONlite</author>
 		<update version="0.1">
-			<file name="players-handbook.index" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/main/dml.index" />
+			<file name="players-handbook.index" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/main/elements.index" />
 		</update>
 	</info>
 	<files>	
