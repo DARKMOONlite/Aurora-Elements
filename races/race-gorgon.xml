@@ -79,7 +79,7 @@
 	</element>
 
 
-	<element name="Fey Ancestry" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_GORGON_MAGIC">
+	<element name="Fey Ancestry" type="Racial Trait" source="dml" id="ID_RACIAL_TRAIT_GORGON_MAGIC">
 		<description>
 			<p>you naturally learn magic due to your race, at 1st level you learn the Friends Cantrip, at 3rd you learn Cause Fear and at 5th you learn hold person, both can be cast 1/long rest, wisom or charisma is your spellcasting ability for these spells</p>
 		</description>
@@ -94,7 +94,7 @@
             <grant type="Spell" id="ID_PHB_SPELL_HOLD_PERSON" level="5" />
         </rules>
 	</element>
-	<element name="Voices in your head" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_VOICES">
+	<element name="Voices in your head" type="Racial Trait" source="dml" id="ID_RACIAL_TRAIT_VOICES">
 		<description>
 			<p>although weak the snakes on your head can faintly communicate when they sense danger. once per short rest you can give yourself advantage on a dexterity saving throw </p>
 		</description>
