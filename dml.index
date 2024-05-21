@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Custom Elements for Volur</name>
+		<description>some basic custom elements for creating characters for my dnd games</description>
+		<author url="https://github.com/DARKMOONlite">DARKMOONlite</author>
+		<update version="0.1">
+			<file name="players-handbook.index" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/dml.index" />
+		</update>
+	</info>
+	<files>	
+
+
+		<!-- races -->
+
+		<file name="race-gorgon.xml" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/Aurora-Elements/races/race-gorgon.xml" />
+
+
+
+		</files>
+</index>
