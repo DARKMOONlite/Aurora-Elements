@@ -86,7 +86,7 @@
 		<sheet>
 			<description>you know the Friends cantrip, charisma or wisdom is your spellcasting ability for this spell.</description>
             <description level="3">you know the Friends cantrip. you can cast the cause fear spell once per long rest. charisma or wisdom is your spellcasting ability for this spell.</description>
-            <description level="5">you know the Friends cantrip. you can cast the cause fear & hold person spells once per long rest. charisma or wisdom is your spellcasting ability for this spell.</description>
+            <description level="5">you know the Friends cantrip. you can cast the cause fear and hold person spells once per long rest. charisma or wisdom is your spellcasting ability for this spell.</description>
 		</sheet>
         <!-- <rules>
             <grant type="Spell" id="ID_PHB_SPELL_FRIENDS" level="1" />
