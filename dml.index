@@ -5,7 +5,7 @@
 		<description>some basic custom elements for creating characters for my dnd games</description>
 		<author url="https://github.com/DARKMOONlite">DARKMOONlite</author>
 		<update version="0.1">
-			<file name="players-handbook.index" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/dml.index" />
+			<file name="players-handbook.index" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/main/dml.index" />
 		</update>
 	</info>
 	<files>	
@@ -13,7 +13,7 @@
 
 		<!-- races -->
 
-		<file name="race-gorgon.xml" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/Aurora-Elements/races/race-gorgon.xml" />
+		<file name="race-gorgon.xml" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/Aurora-Elements/main/races/race-gorgon.xml" />
 
 
 

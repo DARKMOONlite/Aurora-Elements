@@ -3,7 +3,7 @@
 	<info>
 		<name>Elf</name>
 		<update version="0.2.3">
-			<file name="race-gorgon.xml" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/races/race-gorgon.xml" />
+			<file name="race-gorgon.xml" url="https://raw.githubusercontent.com/DARKMOONlite/Aurora-Elements/main/races/race-gorgon.xml" />
 		</update>
 	</info>
 
